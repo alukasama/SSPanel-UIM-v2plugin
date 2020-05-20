@@ -1,6 +1,6 @@
 mkdir v2ray-agent &&
 cd v2ray-agent &&
-curl https://raw.githubusercontent.com/BaddleMoslter/v2ray-sspanel-v3-mod_Uim-plugin/master/install.sh -o install.sh &&
+curl https://github.com/BaddleMoslter/SSPanel-UIM-v2plugin/raw/master/install.sh -o install.sh &&
 chmod +x install.sh &&
 bash install.sh
 
